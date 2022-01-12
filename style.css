@@ -1,21 +1,23 @@
 span {
-    display: inline-block;
-}
+  display: inline-block;
+ }
 body {
     text-align: center;
 }
+
 /* span {
   display: inline-block;
   background-color: lightblue;
   padding: 5px;
   border: 1px solid darkgray;
-} */
-/*
+} 
+/* 
 #one {
   background-color:lightblue;
   width: 150px;
   height: 200px;
 }
+*/
 
 #two {
   background-color: cornflowerblue;
@@ -36,7 +38,7 @@ span {
 
 span {
   border: 1px solid #333;
-
+  
   padding: 10px 15px;
 }
 
